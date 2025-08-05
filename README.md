@@ -1,4 +1,6 @@
 <img width="1897" height="938" alt="Screenshot 2025-08-05 143410" src="https://github.com/user-attachments/assets/d2ac3e76-5df8-4bd9-aee9-952546086f98" />
+<img width="686" height="342" alt="image" src="https://github.com/user-attachments/assets/57f97fa8-5390-442d-8b93-37d3493cdcd8" />
+
 # RateLimiter Development 🚦
 
 A Python-based implementation of various **rate limiting algorithms**, designed for developers and engineers to learn, compare, and integrate different throttling strategies in APIs, authentication systems, or other request-intensive environments.
