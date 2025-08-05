@@ -1,5 +1,6 @@
 <img width="1897" height="938" alt="Screenshot 2025-08-05 143410" src="https://github.com/user-attachments/assets/d2ac3e76-5df8-4bd9-aee9-952546086f98" />
-<img width="686" height="342" alt="image" src="https://github.com/user-attachments/assets/57f97fa8-5390-442d-8b93-37d3493cdcd8" />
+<img width="686" height="342" alt="image" src="https://github.com/user-attachments/assets/57f97fa8-5390-442d-8b93-37d3493cdcd8" />  <img width="676" height="479" alt="image" src="https://github.com/user-attachments/assets/6aba5602-7bff-4b37-a400-8ec87aa3b53c" />
+
 
 # RateLimiter Development 🚦
 
